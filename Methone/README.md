@@ -1,0 +1,2 @@
+# Methone
+Methone is the name of the top bar (or top-bar-as-a-service) system that provides the black-ish top bar with primary navigation and app switching, as seen on all new systems. This is mandatory for all services that provide graphical user interface, and configured via Javascript. See the [Methone repository](https://github.com/datasektionen/Methone).
