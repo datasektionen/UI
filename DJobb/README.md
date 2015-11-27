@@ -1,0 +1,2 @@
+# DJobb
+DJobb serves as a portal for job openings available specifically for Computer Science students, where ads are provided by the chapter's Business Group. As part of the Bawang launch, its UI will be revamped.
